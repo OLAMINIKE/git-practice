@@ -1,2 +1,3 @@
 select * from sample_db
-where name = 'Pelumi'
+where name = 'Pelumi '
+and age > 21
